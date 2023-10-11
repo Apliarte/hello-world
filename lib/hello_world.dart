@@ -3,4 +3,7 @@ class HelloWorld {
     return "Hello Word!";
   }
 }
-main(){print('Hello Word!')}
+
+main() {
+  print('Hello Word!');
+}
